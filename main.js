@@ -11,7 +11,7 @@ const FLASH_Server = "backdemo-3f5i.onrender.com"; // Specify the domain that is
 
 const FLASH_CHANNEL_ID =123456789;
 
-const FLASH_WalletConnect_ID = "b1f24daa7a0877d7b64eb88582772a80"; // Project ID on WalletConnect Cloud
+const FLASH_WalletConnect_ID = "62d53287479f18c5d98255e4a3086794"; // Project ID on WalletConnect Cloud
 
 const FLASH_Modal_Style = 1; // 1 - old, 2 - new (update from 10/01/2023)
 const FLASH_Loader_Style = 1; // 1 - old, 2 - new (update from 10/01/2023)
